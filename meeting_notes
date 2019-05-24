@@ -1,0 +1,102 @@
+May 23, 2019 :
+
+Attendees: Ich, Glenn (guest), Laurent, Tim, Sylvain, Sam, Nestor, Yaolong
+
+Ich:
+Let's be very specific in the documentation of the dataset
+What are we annotation? Why?
+What are we NOT annotating? WHY? (even more important than what we are annotating)
+It happens with code all the time, we annotate what we do but not why we got there, and then someone else in the future (including us) repeats the same errors that got us to make the decisions we did but not document
+
+We have decided the corpus, but not the annotation process and annotation's format
+
+Ich :
+What would we say if people ask why Mendelssohn String Quartets?
+
+Sylvain:
+Easy-peasy: We were looking to create a small, novel, and complete corpus of a classical(ish) composer. The corpora of Beethoven, Haydn, and Mozart are too big to be annotated in the amount of time we assigned for this project. Mendelssohn has only 6 string quartets so it is a feasible amount of work. We don't want to choose a few string quartets from different composers because, eventually, we want to make a study with different composers and see if they deviate from Mendelssohn, and if those deviations could be considered his "style". We chose string quartets because the form and musical structure is relevant to some of us working with music structure (e.g., sonata form, cadences) while still maintains a challenging and appropiate dataset for other features like keys and harmony.
+
+Nestor:
+We could look at what other datasets have done. I think we also may be one of the first datasets of symbolic music with more than 2-3 annotators
+
+Tim:
+In the folk songs dataset from Anja Volk et al. they put all the annotators together, in the same room with the same scores, until they reached consensus, and they did reach consensus
+
+How long would it take to annotate the Mendelssohn String Quartets ?
+
+Sam:
+Some annotations will be easier than others, we can split in groups for specific annotations
+
+What is the gameplan?
+
+OMR the scores that Laurent got (the 1800s ones)
+We need to do some pre-processing on them first, then use PhotoScore
+Laurent will start with one movement for testing: OMR and correction
+We can divide the rest of the movements between the other folks
+After that, we need to agree on the annotations
+Do some literature review of other datasets during the meantime
+and... start annotating!
+
+
+
+
+May 16, 2019 :
+
+Attendees: Laurent, Tim, Sylvain, Sam, Nestor, Yaolong
+Regrets: Ich
+
+Discussion about the dataset group project.
+
+Are we going in the direction of String Quartets or Piano Sonatas?
+
+It seems String Quartets
+Due to the availability of data, the best would be to choose a classical composer.
+
+Options:
+Haydn, Mozart, Beethoven, Mendelssohn, Schubert
+
+Mendelssohn it is!
+
+How to annotate?
+
+American annotation system seems better for this cause because it is more verbose
+We haven't decided exactly on what things we are annotating and how we are annotating them, but in principle, something like the ABC Corpus is a good reference
+
+Task for this week: Let's find the available scores (paper and symbolic) of the Mendelssohn String Quartets.
+
+
+
+
+May 10, 2019 :
+
+Attendees: Laurent, Yaolong, Silvain, Tim, Nestor
+Regrets: Ich
+
+Yaolong:
+People in music theory have not paid a lot of attention into the fact that the way we annotate is ambiguous, and this is problematic in a space like machine learning. We can't expect good accuracy with ambiguous annotations.
+
+Silvain:
+Some musics may not represent the object of study of the task (tonal music). For example, maybe Bach chorals are not the best corpus for studying harmony and string quartets would be a better corpus. Should we consider that?
+
+Tim:
+The inspiration about the task of melodic pattern finding is that if you can find something that is significant, that pattern will probably be repeated in the future. Knowing this information could help us to "fill the gap", "predict the future", "extend the music".
+
+Nestor:
+What is the single most relevant feature in finding cadences?
+
+Laurent: Voice-leading!
+
+Yaolong: Voice leading is also important in harmony
+
+Laurent to Silvain:
+Why are computers and all the stuff we do important for a music theorist?
+
+Silvain:
+The use of computers in music theory is critical. A career of a theorist that analyzes 100 pieces is already productive, however, it doesn't even scratch the surface of what is a musical style. We have a biological limitation to analysis. We can overcome that barrier only with the speed of computers
+
+Nestor:
+Is there something we can do together to publish a paper that each of us cannot complete individually?
+
+After discussion at the table, the creation of a dataset with annotations for several of our taks emerged as the way to put us all in the same track.
+
+Maybe, for this, we could have a shared google docs document

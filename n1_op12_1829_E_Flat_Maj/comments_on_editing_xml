@@ -1,0 +1,12 @@
+mvt 1:
+- get rid of cresc decresc m13
+- m17 : don't know how in musescore, you can do what is in the score (with double bar in the middle of a measure)
+  2 possibilities : * get rid of the double bar
+                    * divide the measure in 2 a 3/4 and a 1/4
+  1st option is preferable because of measure consistency (we want the same number of measure as in the score)
+- m19 : some "_" that I can't remove... (edit of the mxl file ?)
+- m29 : last stem on Cello is not right
+- m82 : couldn't place the "al" at the right place
+- m93 : problem of time signature (switch to 2/2
+- m171 : did not write "sempre" of "pp sempre"
+- m283 : cresc. on cello on downbeat instead of third beat

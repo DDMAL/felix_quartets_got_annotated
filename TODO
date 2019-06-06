@@ -1,15 +1,7 @@
 TODO :
 
-+ OMR with PhotoScore
--- Op12
--- Op13
--- Op44 i
--- Op44 ii
--- Op44 iii
--- Op81 (four pieces)
-
 + Correction of OMR
--- Op12
+-- Op12 mvt 3,4
 -- Op13
 -- Op44 i
 -- Op44 ii
@@ -25,9 +17,13 @@ TODO :
 
 
 IN PROGRESS :
-
+* Correction of OMR mvt2
 
 
 DONE :
 - PDF Preprocessing
 - PDF Search
+- OMR with PhotoScore
+
+- OMR correction :
+  * Op12 mvt1

@@ -1,6 +1,16 @@
 # felix_quartets_got_annotated
 This dataset consists of the encoding and annotation of the 6 string quartets composed by Felix Mendelssohn.
 
+## Contributors
+This dataset is the collective effort of several contributors:
+- Laurent Feisthauer
+- Ichiro Fujinaga
+- Sam Howes
+- Yaolong Ju
+- Sylvain Margot
+- Nestor Napoles Lopez
+- Tim de Reuse
+
 ## Content
 The dataset contains encodings and annotations for the following pieces:
 

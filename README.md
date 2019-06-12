@@ -51,7 +51,8 @@ We started by passing a set of public-domain scores through commercial OMR softw
 
 After that, we corrected the encodings using MuseScore v2.3.2, adopting the following workflow:
 1. Correct the pitch and duration of the notes, according to the original pdf
-2. Match the beaming and slurs/ties of the original pdfs. Be sure that a tie is not a slur and vice versa.
+2. Match the beaming and slurs/ties of the original pdfs. Be sure that a tie is not a slur and vice versa. 
+> Nestor: The layout of the slurs/ties is not matched to the original pdf, but the `start` and `end` notes of the slur/tie are correctly encoded.
 3. Add fermatas
 4. Ignore dynamics/articulations/ornaments that are correct, remove the ones that are wrong, and do not encode the ones that are missing (for the sake of time)
 5. Remove all the machine-generated tempo changes in the MuseScore community one

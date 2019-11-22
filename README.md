@@ -57,3 +57,6 @@ After that, we corrected the encodings using MuseScore v2.3.2, adopting the foll
 4. Ignore dynamics/articulations/ornaments that are correct, remove the ones that are wrong, and do not encode the ones that are missing (for the sake of time)
 5. Remove all the machine-generated tempo changes in the MuseScore community one
 6. When all the notes should be encoded in one layer (voice) but the OMR software has (wrongfully) detected several voices, make sure to remove all of the additional voices in the music notation editor and encode the notes in a single, main, layer 
+
+## Other remarks
+- We encode the *structural temporal markings*, which happen usually at the beginning of a piece and, sometimes, between sections of the same piece (e.g., minuet/trio)

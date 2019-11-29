@@ -1,6 +1,6 @@
 # November 29, 2019
 
-Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong
+Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong, Tim
 
 > Notes taken by Nestor Napoles Lopez
 
@@ -13,8 +13,10 @@ Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong
 - Nestor: What about cases where those 2 pitch classes are in a place where they are *felt* like the chord you are expecting, it would be necessary to have those ones annotated
 - Sam: That is given by the syntax, the machine learning model is not quite there yet
 - Yaolong: All of the feedback regarding the ouput of the algorithm is great, however, we should also discuss how can we use the output of the model to facilitate our annotations of the Mendelssohn dataset, my hope is that it will save us time compared to starting annotating from scratch
-
-
+- (Long discussion over whether an `F` chord, as annotated by the ensemble method, is really a double suspension, a dominant ninth, or something else)
+- Everybody: For the annotation process, we can put a double exclamation mark to outputs in which the predictions of the ensemble method agree but the root of the chord label is not in the music
+- Finn: How about we hear the piece in one ear and sonorize the chord labels of the algorithm in the other ear, then we should be able to spot places where the harmonies don't make any sense
+- Everybody: That's a great idea, let's do that!
 
 # November 22, 2019
 

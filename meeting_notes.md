@@ -1,3 +1,17 @@
+November 29, 2019
+
+Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong
+
+Notes taken by Nestor Napoles Lopez
+
+## Discussion of the chord labeling algorithm on Op.44 No.1 - II.
+
+- Sylvain: The output of the `DH(ML)` seems to be the best
+- Yaolong: The ensemble method consists of three algorithms: The NCT + CL(ML) [Non-chord-tones + Chord labeling using machine learning], the DH(ML) [Direct Harmonic Analysis], and the NCT + CL(RB) [Non-chord-tone + Chord labeling using a rule-based system].
+[The discussion on the ouput of the algorithm for the first 13 measures continues]
+
+
+
 November 22, 2019:
 
 Attendees: Ich, Laurent, Tim, Sylvain, Sam, Nestor, Yaolong, Jacob, Suzuka, Finn

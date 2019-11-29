@@ -1,8 +1,8 @@
-November 29, 2019
+# November 29, 2019
 
 Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong
 
-Notes taken by Nestor Napoles Lopez
+> Notes taken by Nestor Napoles Lopez
 
 ## Discussion of the chord labeling algorithm on Op.44 No.1 - II.
 
@@ -12,7 +12,7 @@ Notes taken by Nestor Napoles Lopez
 
 
 
-November 22, 2019:
+# November 22, 2019
 
 Attendees: Ich, Laurent, Tim, Sylvain, Sam, Nestor, Yaolong, Jacob, Suzuka, Finn
 
@@ -33,7 +33,7 @@ Plan for next week:
 
 
 
-May 23, 2019 :
+# May 23, 2019
 
 Attendees: Ich, Glenn (guest), Laurent, Tim, Sylvain, Sam, Nestor, Yaolong
 
@@ -75,7 +75,7 @@ and... start annotating!
 
 
 
-May 16, 2019 :
+# May 16, 2019
 
 Attendees: Laurent, Tim, Sylvain, Sam, Nestor, Yaolong
 Regrets: Ich
@@ -102,7 +102,7 @@ Task for this week: Let's find the available scores (paper and symbolic) of the 
 
 
 
-May 10, 2019 :
+# May 10, 2019
 
 Attendees: Laurent, Yaolong, Silvain, Tim, Nestor
 Regrets: Ich

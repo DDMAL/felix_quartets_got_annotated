@@ -8,7 +8,7 @@ Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong
 
 - Sylvain: The output of the `DH(ML)` seems to be the best
 - Yaolong: The ensemble method consists of three algorithms: The NCT + CL(ML) [Non-chord-tones + Chord labeling using machine learning], the DH(ML) [Direct Harmonic Analysis], and the NCT + CL(RB) [Non-chord-tone + Chord labeling using a rule-based system].
-[The discussion on the ouput of the algorithm for the first 13 measures continues]
+- (The discussion on the ouput of the algorithm for the first 13 measures continues)
 
 
 

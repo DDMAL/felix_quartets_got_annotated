@@ -7,11 +7,11 @@ This dataset is the collective effort of several contributors:
 - Ichiro Fujinaga
 - Sam Howes
 - Yaolong Ju
+- Suzuka Kokubu
 - Sylvain Margot
 - Nestor Napoles Lopez
 - Tim de Reuse
 - Finn Upham
-- Suzuka Kokubu
 
 ## Content
 The dataset contains encodings and annotations for the following pieces:

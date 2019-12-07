@@ -1,3 +1,44 @@
+# December 6, 2019
+
+Attendees: Yaolong, Sam, Jacob, Tim, Nestor, Finn, Sylvain
+
+> Notes taken by Sam Howes
+
+Deadline met: all movements corrected! Some have been cross-checked too
+
+New repo: under DDMAL/felix_quartets_got_annotated
+
+CTS website: Nestor to set up a gh-page
+
+Meeting notes are to be in markdown format on GitHub
+
+## Tools for organizing our work:
+- Basic kanban for Mendelssohn String Quartets Annotated
+- Must navigate to DDMAL/felix_quartets_got_annotated/projects/1
+- Cards for to-dos (also in markdown)
+
+This will be our last meeting of 2019, Sam to make a Doodle poll for meeting time next term
+
+## Setting deadlines:
+- by Jan 6th: all cross checking done (checkbox on github)
+- Yaolong would like to have a clear idea of what we are doing and by when
+- Finn: let's work backwards from our ISMIR submission mid-April
+- For a six-page ISMIR paper, we will need all of our annotations: chords, keys, form, repeated hierarchical patterns (start with melodic motifs)
+
+Tim to look at Dezrann (to understand what kinds of annotations are possbile) and contact Laurent if he has questions
+
+Laurent: please create an issue on GitHub for that, so we can keep track of it all and I can show the developer of Dezrann
+
+We will have to annotate one movement, each with our own annotations (chord labels, keys, etc.) and time ourselves to get an idea of the timeline between January and April
+
+Nestor: We should all learn Dezrann from the beginning because this is what we will use to produce the finished product
+
+First meeting in January will be devoted to learning Dezrann together (might take two weeks)
+
+Before this (these) meetings, we (Yaolong and Nestor) must have some way to get their annotations out of xml and into the Dezrann format
+
+Laurent to upload one of the Mendelssohn scores to Dezrann: op. 44 no. 2 movt. 4 (already cross checked)
+
 # November 29, 2019
 
 Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong, Tim

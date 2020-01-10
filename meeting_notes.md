@@ -1,3 +1,28 @@
+# January 10, 2020
+
+Attendees: Sylvain, Finn, Néstor, Yaolong, Jacob, Tim, Sam, Suzuka
+
+> Notes taken by Sylvain Margot
+
+## ISMIR 2020 conflicting schedule:
+Next week is the first ISMIR 2020 Planning Committee meeting, We have unanimously voted to keep our meetings on Friday 10am and skip a week when there’s a scheduling conflict.
+
+## Mendelssohn OMR reviews:
+OMR corrections should be done for January 17th. Even if we don’t meet that day, this timeline is kept. Sylvain, Tim, Sam, and Yaolong finished their assignment; Laurent, Néstor, Jacob and Finn are almost done; Suzuka should be able to meet the deadline and could ask for help from Tim and Sam.
+
+## Slurs in double-stops:
+A strange slur above double stops in Mendelssohn op.13, ii, m.56 had to be examined. After discussing the point and examining the entire score, we decide that it is a tie applied only to the top note while the bottom note is re-articulated.
+
+## Issues with Dezrann:
+Laurent warns us on a issue with Dezran: dynamics, slur, and articulation informations are not kept by the conversion from xml to lilypond through music21. Several other solutions are being examined. Sam proposes that, if the issue only comes from lilypond, maybe we should use a more robust file format.
+For January 24th, Laurent will provide to each of us a profile to get to Dezrann. Néstor asked access to the code because it could be useful while generating labels for local keys and chord labels, but it might not be necessary.
+
+## Next meeting:
+Next meeting, we’ll begin with a work session on Dezrann and end with a 15-minute presentation from Néstor. Sylvain will conduct the session and Finn will take notes.
+
+
+
+
 # December 6, 2019
 
 Attendees: Yaolong, Sam, Jacob, Tim, Nestor, Finn, Sylvain

@@ -39,6 +39,9 @@ Before this (these) meetings, we (Yaolong and Nestor) must have some way to get 
 
 Laurent to upload one of the Mendelssohn scores to Dezrann: op. 44 no. 2 movt. 4 (already cross checked)
 
+
+
+
 # November 29, 2019
 
 Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong, Tim
@@ -59,6 +62,9 @@ Attendees: Finn, Sylvain, Suzuka, Sam, Jacob, Nestor, Yaolong, Tim
 - Finn: How about we hear the piece in one ear and sonorize the chord labels of the algorithm in the other ear, then we should be able to spot places where the harmonies don't make any sense
 - Everybody: That's a great idea, let's do that!
 
+
+
+
 # November 22, 2019
 
 Attendees: Ich, Laurent, Tim, Sylvain, Sam, Nestor, Yaolong, Jacob, Suzuka, Finn
@@ -77,6 +83,91 @@ Plan for next week:
 (1) Nestor and Yaolong will run automatic key-finding and chord labeling on both Op. 81 Fugue and Op 44.1 Movement 2, and we will take a look at the results, discussing some annotating protocols, and plans for cross-checking.
 (2) Jacob will do the assignment for cross-checking, so everybody knows what to double-check.
 (3) We will also try to make a timeline for the whole project, outlining the necessary steps and job assignments for everyone. 
+
+
+
+
+# October 18, 2019
+
+Attendees: Sylvain Margot, Tim de Reuse, Ichiro Fujinaga, Sam Howes, Néstor Nápoles López, Jacob de Groot-Maggetti, Yaolong Ju, Laurent Feisthauer, Gianluca Micchi, Suzuka Kokubu
+
+> Notes taken by Sylvain Margot
+
+## Sam’s discussion on “Chord Context and Harmonic Function in Tonal Music”  
+
+Sam proposes to do a summary of the article first, and then to ask the questions that could remain after the reading. 
+3 corpora analyzed. Sam focused on Bach’s and Kostka-Payne’s corpora. According to the authors, the 3 function models  usually used in music theory are ok but each of them can be improved. With the results they got, they propose a 4-function model for Kostka-Payne and a 13-function model for Bach. The pedagogical and theoretical implications of their results are very interesting.
+
+What can be used in our own work?
+Tim: the authors used the results to propose different theoretical approaches and directly applied them to real music, to see how relevant these could be for music analysis. However, some functions in the 13-function model could be collapsed with each other, given the fact that there’s not a big difference in “coherence” between the different models they tested.
+Yaolong: the study is not that much hard-data driven. There are many assumptions in their model coming from pre-conceptions of music theory. “Deceptive cadence is very unlikely”.
+Sam: this weakness is also a strength. Sometimes, you have to take a step-back to really make sense of the results.
+Sylvain: issues with modulation and contrapuntal events such as harmonic sequences, that multiply the number of functions needed for their models.
+Sam: the models might over-model the music, but the outstanding results coming from modulation or contrapuntal events can be observed as valuable specific syntaxes. 
+Yaolong: and what about non-chord tones? 
+Sam: this question is only relevant if you’re interested in chord labeling, but if you focus on syntax only, this question is less important (example: 1-2-4-5 is a very common sonority as a passing sonority between I and I6, but it cannot be a chord by itself). 
+Ichiro: the computer should be able to recognize this sonority in different key, leading to identification of keys.
+Néstor: the context is lost in “salami-slices” approach, and therefore the reason why a chord receives a label is lost.
+Sam: even if you are aggressively data-drive, the computer will get things that are not at all compatible with our theoretical models (for example: V6$ is a pre-dominant). 
+Sylvain: isn’t the algorithm too goal-oriented? It doesn’t seem to take under consideration what comes before a chord to label it.
+Néstor: explanation how HMM works. The model takes the entire sequence under consideration. It is not really a 2-grams approach despite the fact that the results are represented as a 2-grams network.
+Sam: final thought. Are chord labels a reasonable abstraction or not? 
+Tim: yes, it works in teaching music theory.
+Néstor: is pursuing the data-driven approach based on our understanding of chords is that relevant?
+
+
+
+# October 11, 2019
+
+Attendees: Sylvain Margot, Néstor Nápoles López, Suzuka Kokubu, Finn Upham, Yaolong Ju, Sam Howes, Ichiro Fujinaga, Tim de Reuse, Laurent Feisthauer
+
+> Notes taken by Sylvain Margot
+
+## Yaolong and Sylvain’s proposal for CIRMMT Agile Seed Funding 
+
+Yaolong and Sylvain present their proposal for CIRMMT Agile Seed Funding. Their project is entitled The J. S. Bach Chorales Figured Bass Project — Digitizing and Translating Figured Bass into Chord Labels in Symbolic Formats. It consists in using the figured bass, a characteristic numeral notation of the Baroque era, to retrieve harmonic informations from  Bach’s annotated chorales. A dataset of these chorales will be publicly available on GitHub.
+The rest of the group makes some comments to improve the quality of the presentation, especially on the notion of harmonic rhythm that might seem quite ambiguous.
+
+## Updates on the Mendelssohn's String Quartets project
+
+Laurent made some corrections in the spreadsheet of the Mendelssohn’s String Quartets Project (https://docs.google.com/spreadsheets/d/1I97esez5-ObIIOPfARn7O739Vh1QI1o1kRarzwl Aedw/edit#gid=0). The rest of the members approve these changes.
+
+
+
+# September 20, 2019
+
+Attendees: Sylvain Margot, Néstor Nápoles López, Suzuka Kokubu, Finn Upham, Yaolong Ju, Sam Howes, Ichiro Fujinaga, Tim de Reuse, Laurent Feisthauer
+
+> Notes taken by Sylvain Margot
+
+## First meeting - Introduction of each member
+
+Sylvain is a 3rd year PhD student in Music Theory. He worked during his Master degree on the evolution of cadential syntax in the medieval rondeau between 1250 and 1450 using Digital Humanities tools. He is interested in the evolution of musical languages, and therefore all the questions about tonality.
+Sam is a PhD student in Music Theory. He works on the evolution of tonality and does his dissertation on the birth of tonality within Italian instrumental music of the 17th-century. He got particularly interested in this repertoire due to his violin background.
+Suzuka is a 1st year PhD student in Music Tech. She has a background in applied physics and piano. She has some knowledge on music analysis. 
+Tim is a 3rd year PhD student in Music Tech. He is interested in thematic repetition, large scale structure, and form in music. All these topics have many interactions with tonality.
+Néstor works on key detection, modulation, and harmony (especially Roman numeral analysis). He explains that the CTS group has started when several students began to share their programs on extraction of musical features.
+Yaolong is interested in chord labeling, leading to the detection of key (while it also works in the other way). He got involved in the CTS group going back and forth between the other members due to inherent ambiguity of key/chord labeling. He wants to translate figured bass to chord labeling, and has begun collecting sources for his project.
+Finn is a post-doc student. They have background in music theory and music cognition. They are interested in how people hear pitch and harmony, or more precisely how they don’t hear the same pitch and harmony. They wonder if tonality is really relevant to the question of reception and perception of a piece. They consider music theory history to be very useful to get a better view and confront of our conceptions.
+Ichiro has a Master in Music Theory and is a third generation Schenkerian (he studied with Janet Schmalfeldt). 
+Laurent is in last year of PhD at the Université de Lille. He works on cadence detection, using machine learning and rules approach, as well as on form detection of string quartets.
+
+## Updates on the Mendelssohn's String Quartets project
+
+Sylvain explains that the group decided to have an annotated dataset of Mendelssohn string quartets. The process began with an Optic Music Recognition flow that exported the pieces in an MusicXML format. It had first to be cleaned before being annotated, and each member got a piece to work on. 
+Néstor adds that most annotated datasets are quite small and use specific annotations with which not everyone agrees.
+The MusicXML cleaning is due for the end of October. Suzuka could double-check the corrected files. For now, Laurent, Sylvain, Tim and Néstor have finished their task, Yaolong has almost done everything, and Sam is achieving his correction of his quartet’s first movement. The group thinks about participating in ISMIR 2020. 
+Tim suggests to apply all our algorithm on our dataset—for example, he could test his pattern detection. It should be not difficult to annotate the music in the CSV corresponding to each piece, based on Markus Neuwirth did for his Beethoven project. 
+On the other hand, Néstor and Yaolong tried to run Music21 on the already existing corrected files. It unfortunately crashed which means that we need to do a technical correction onto the MusicXML files (it could be something like a hidden grace note, a wrong measure metric, or anything similar). Sylvain proposes to apply Music21 to all corrected files to see which files should be closely examined and to keep track of what makes the algorithm break.
+Ichiro asks which format supports annotations the best. Néstor answers, in that order Humdrum (kern), MEI, and then MusicXML. Tim, then, questions the relevancy of annotating directly in the music and suggests to do it in a different file, like Laurent’s format json. The group agrees to use json for the annotation and to export the music in the 3 main symbolic formats : kern, MusicXML, and MEI. Laurent adds that there is not json standard for annotations because it is highly customizable tool (cf Mark Gotham - Roman analysis and chord labeling). Laurent will send examples of annotations via Slack.
+The group proposes to collaborate with Alex’s OMR workflow to check which one does the less mistakes in translating.
+
+## Yaolong's chord labeling developments
+
+Yaolong works on chorals chord labeling based on figured bas. Unfortunately, complete editions only labeled 50% of them, and it even varies within the same cantata: the older editions are more detailed ; the most modern got rid of the figured bass. He might have no choice but to work directly from the source.
+The figured bass translation toward chord labeling is very tricky, and Yaolong feels he needs to get more familiar with this notation to better understand how it works.
+Finn questions the relationship between figured bass and tonality. Sam answers that they are two different things, as the Roman numeral notation appeared much latter than figured bass.
+
 
 
 

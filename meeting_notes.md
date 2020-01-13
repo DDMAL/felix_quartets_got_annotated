@@ -110,6 +110,25 @@ Plan for next week:
 (3) We will also try to make a timeline for the whole project, outlining the necessary steps and job assignments for everyone. 
 
 
+# November 15, 2019
+
+Attendees: Ichiro Fuginaga, Jacob deGroot-Maggetti, Yaolong Ju, Finn Upham. Absent: many with regrets
+
+> Notes taken by Finn Upham
+
+The meeting was a more casual conversation. Here are some points that were raised.
+
+## Chord label beyond the 18th C abstraction
+
+Ich brought up a concern about chord labeling that struck him during this past ISMIR: chord labeling is mostly a 18th C abstraction from score patterns. an imposed interpretation that is now taken as the gold standard that labels contrary interpretations of ambiguious passages as wrong. How do we know when the 7th on V is a chord tone or a passing note in a Bach chorale? The subsequent discussion consdiered tolerance of ambiguity in harmonic analysis by theorists and what factors resolve passages with multiple interpretations (voice leading, metrical placement, etc.) The conversation fell in favour of using probabilistic representations of harmonies, giving weightings to ii and vi beside IV and V7 with V for example, and Yaolong is close to being able to share such mappings from his current work. The idea was also floated to generate mappings organised by bass note (for figured bass) as well as mappings for chords, to consider their respective effectiveness at describing music collections such as the Bach Chorales. 
+
+## Sharing MIR resources for comtemporary music theory research
+
+Jacob asked about MIR resources that could help with his work on Jacob Collier's music featuring microtonallities for voice. Suggestions included Sonic Visualiser and some work presented at ISMIR looking into tuning of choirs. 
+
+## Mendelsson project timeline
+
+Last we talked about the Mendelsson project next steps and the timeline. If the current phase (initial OMR and review) could be completed for next Friday (Nov 22nd) we can use the meeting to plan out the work needed to get this lined up for next ISMIR (submission April 17th).
 
 
 # October 18, 2019

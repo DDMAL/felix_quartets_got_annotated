@@ -3,6 +3,7 @@ This dataset consists of the encoding and annotation of the 6 string quartets co
 
 ## Contributors
 This dataset is the collective effort of several contributors:
+- Jacob deGroot-Maggetti
 - Laurent Feisthauer
 - Ichiro Fujinaga
 - Sam Howes

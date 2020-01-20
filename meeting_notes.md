@@ -1,3 +1,28 @@
+# January 10, 2020
+
+Attendees: Sylvain, Finn, Néstor, Yaolong, Jacob, Tim, Sam, Suzuka
+
+> Notes taken by Sylvain Margot
+
+## ISMIR 2020 conflicting schedule:
+Next week is the first ISMIR 2020 Planning Committee meeting, We have unanimously voted to keep our meetings on Friday 10am and skip a week when there’s a scheduling conflict.
+
+## Mendelssohn OMR reviews:
+OMR corrections should be done for January 17th. Even if we don’t meet that day, this timeline is kept. Sylvain, Tim, Sam, and Yaolong finished their assignment; Laurent, Néstor, Jacob and Finn are almost done; Suzuka should be able to meet the deadline and could ask for help from Tim and Sam.
+
+## Slurs in double-stops:
+A strange slur above double stops in Mendelssohn op.13, ii, m.56 had to be examined. After discussing the point and examining the entire score, we decide that it is a tie applied only to the top note while the bottom note is re-articulated.
+
+## Issues with Dezrann:
+Laurent warns us on a issue with Dezran: dynamics, slur, and articulation informations are not kept by the conversion from xml to lilypond through music21. Several other solutions are being examined. Sam proposes that, if the issue only comes from lilypond, maybe we should use a more robust file format.
+For January 24th, Laurent will provide to each of us a profile to get to Dezrann. Néstor asked access to the code because it could be useful while generating labels for local keys and chord labels, but it might not be necessary.
+
+## Next meeting:
+Next meeting, we’ll begin with a work session on Dezrann and end with a 15-minute presentation from Néstor. Sylvain will conduct the session and Finn will take notes.
+
+
+
+
 # December 6, 2019
 
 Attendees: Yaolong, Sam, Jacob, Tim, Nestor, Finn, Sylvain
@@ -85,6 +110,25 @@ Plan for next week:
 (3) We will also try to make a timeline for the whole project, outlining the necessary steps and job assignments for everyone. 
 
 
+# November 15, 2019
+
+Attendees: Ichiro Fuginaga, Jacob deGroot-Maggetti, Yaolong Ju, Finn Upham. Absent: many with regrets
+
+> Notes taken by Finn Upham
+
+The meeting was a more casual conversation. Here are some points that were raised.
+
+## Chord label beyond the 18th C abstraction
+
+Ich brought up a concern about chord labeling that struck him during this past ISMIR: chord labeling is mostly a 18th C abstraction from score patterns. an imposed interpretation that is now taken as the gold standard that labels contrary interpretations of ambiguious passages as wrong. How do we know when the 7th on V is a chord tone or a passing note in a Bach chorale? The subsequent discussion consdiered tolerance of ambiguity in harmonic analysis by theorists and what factors resolve passages with multiple interpretations (voice leading, metrical placement, etc.) The conversation fell in favour of using probabilistic representations of harmonies, giving weightings to ii and vi beside IV and V7 with V for example, and Yaolong is close to being able to share such mappings from his current work. The idea was also floated to generate mappings organised by bass note (for figured bass) as well as mappings for chords, to consider their respective effectiveness at describing music collections such as the Bach Chorales. 
+
+## Sharing MIR resources for comtemporary music theory research
+
+Jacob asked about MIR resources that could help with his work on Jacob Collier's music featuring microtonallities for voice. Suggestions included Sonic Visualiser and some work presented at ISMIR looking into tuning of choirs. 
+
+## Mendelsson project timeline
+
+Last we talked about the Mendelsson project next steps and the timeline. If the current phase (initial OMR and review) could be completed for next Friday (Nov 22nd) we can use the meeting to plan out the work needed to get this lined up for next ISMIR (submission April 17th).
 
 
 # October 18, 2019

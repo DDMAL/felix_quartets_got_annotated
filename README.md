@@ -47,6 +47,11 @@ The dataset contains encodings and annotations for the following pieces:
   2. Allegro assai
   3. Adagio
   4. Finale ; Allegro molto
+- Four Pieces for String Quartet, Op.81
+  1. Tema con Variazioni
+  2. Scherzo
+  3. Capriccio
+  4. Fuga
   
 ## Workflow for encoding
 

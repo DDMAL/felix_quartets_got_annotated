@@ -1,3 +1,59 @@
+# January 24, 2020 
+Attendees Ich, Nestor, Sylvain, Jacob, Suzuka, Tim, Sam, Finn, and Laurent (Remotely)
+
+> Chair: Sylvain Margot, Minutes: Finn Upham, Transcript and Audio https://otter.ai/s/7-6LHuRGRcOJAbcCdhf8Ew
+
+## Git Repo, how to file our corrected documents
+Laurent shared a prefered nomenclature and formate for the symbolic music files in their final corrected and reviewed form. 
+Where to store them?
+Decision: We will place the final copies in two places: All together in a reserved root folder and in a suitably names folder within each quartet's folder. Nestor will make these changes so the nomenclature is consistent
+
+## Reviewer Priority list
+In reviewing each others corrections, it became evident that we had different priorities for what needed to be in the files. Finn started a check list of score elements for each reviewer to report what they preserved from the OMR generated symbolic files, matched to the printed page, or removed entirely. See sheet two (Review Priorties) of this google spreadsheet for each reviewers reported strategy: https://docs.google.com/spreadsheets/d/1I97esez5-ObIIOPfARn7O739Vh1QI1o1kRarzwlAedw/edit?usp=sharing
+
+The discrepencies warranted further discussion, with the possibility of needing another round of corrections to standardize the corpus. 
+
+A point of confusion was the purpose of the corpus: are these files to serve as ground truth for future OMR work, or are they for computational analysis on symbolic music? One requires fidelity to the printed page, the other computer readability and preservation of information for musical analyses. Nestor pointed out that making these symbolic music files suitable for OMR would involve adding a great deal of information, bounding boxes, etc. Yaolong emphasised that we should priorities the information needs for this group. What do the different analyses need to produce good quality results? 
+
+## List of score elements to match, preserve, or remove
+- Pitch values: All matched
+- Courtesy Accidentals (accidentals confirming the key signature after changes in a previous measure): 
+  - Nestor has found a plug in for musescore that generates courtesy accidentals if need be. These wouldn't match the printed score but should suffice if needed be human readers. 
+  - Decision: Remove these from the scores.
+- Rhythm elements: 
+  - Ties, tremolo, fermatta, Every one matched the scores. Tuplets/triplets are sometimes not show in score if they continue for a long time. These should be matched to music but rendered invisible. 
+- Stemming: Most matched, some preserved. Goal the match
+- Rest groupings: Match to score
+- Slurs: Matched the score by all
+- Articulation symboles: (stoccato, tenuto, accent carrots) Some removed all, some removed only note accents
+  - Sam (string player) explained that stocatto markings were important to keep if we also were preseving slurs. There was also agreement that articulate can be important for motive identification and structural cues. 
+  - Decision: Match stoccato markings to the score as instructions. If the print document uses "similar" and doesn't show them all, add the points and make them  invisible. Accents carrots should be removed.
+- Articulation text: (pizz, arco)
+  - Tim suggest they are worth keeping as indicators of structural boundaries.
+  - Decision: Match to score in staff text
+- Ornamentation symbols: (Trills, turns)
+  - Trills pose some particular problems. While often not rendered by programs reading symbolic music, they are know to be predictive of cadences, and they indicate different sounded frequencies than the held pitch alone. They also pose complications when going beyond the duration of a measure, depending on how the symbolic file is being interpreted (Jacob example).
+  - One option proposed was to make them an annotation layer in Dezerin, seperate from the symbolic music files.
+  - There was no final consensus on this matter
+- Dynamics: There was some variation in how these were managed in the reviewed files.
+  - Decision: All varieties of dynamic information are to be removed as they are difficult for computational systems to interpret and make use of.
+- Expression text: to be removed by all
+- Tempo, global text levels: Consensus on matched to printed score
+- Tempo, local changes: Decision to Remove
+- Layout elements like ends of systems and page position:
+  - Practice was inconsistent, some very carefully matched, some removed.
+  - Decision: Leave in present variety.
+- Voices: 
+  - Everyone was careful to reduce the voices in each line to the minimal number necessary, using chords or a second voice depending on the score stemming for sections with stops. Up to now the priority has been to match the printed scores.
+  - However, without sufficient warning, analysis scripts may miss the notes in a second voice on a staff. Is it worth forcing these second voice passages into the first voice by breaking staggered onsets and offsets with ties? Or should all analyses be prepared to retreive information from up to two voices per staff?
+  - This issue was not concluded.
+- Clefs: All were matched. 
+
+The agreement was reached on many of these score elements, and this review suggests we needed to go through the files again in order to standardise these important elements. However, no date was set for the submission of this final review, nor it was not clear who was responsible for making changes: the final reviewers or the initial correctors? These issues and the final decisions a couple of elements may be resolved over slack.
+
+Remaining agenda items were tabled until next time. 
+
+
 # January 10, 2020
 
 Attendees: Sylvain, Finn, Néstor, Yaolong, Jacob, Tim, Sam, Suzuka

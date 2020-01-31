@@ -1,3 +1,25 @@
+# January 31, 2020
+Attendees: Ich, Finn, Sylvain, Jacob, Tim, Yaolong, Nestor, and Laurent (Remotely)
+
+> Chair: Finn, Minutes: Nestor
+
+Checking the spreadsheet and discussing the reviewer strategies that were remained unanswered during the last session. Particularly:
+
+- Trills: We will match them as they appear in the score. Jacob mentioned a few cases where a long, tied note with a trill didn't seem to perform the trill for the entire duration. We decided to encode the trill to match the score and not worry too much about how it is encoded. For example, the trill mark is written only once in the MusicXML so it would be up to the analysis software to figure out the continuation of the trill in a tied note, which is out of our control
+- Other articulations: We decided to remove turns and other articulations, given the large amount of symbols that we would need to verify
+- Grace notes: Grace notes were not considered originally in the spreadsheet. We added the grace notes as part of the things that need to be encoded.
+- Number of voices: Finn presented an example of a `chord` where the lower note has a different duration than the notes on top. Finn's strategy is to encode these examples with the same duration for all notes and (visually) modify the notehead of the lower note. This creates a tag in the `musicxml` that modifies the notehead of the note. The duration, however, is the same as the other notes.
+- Layout: We are not worrying about matching the layout of the score, which could be useful for OMR, but guaranteeing the quality of such layout is out of the scope of this project.
+
+At this point, the dataset is pretty much ready for starting the annotations.
+
+Regarding the annotation/analysis stage of the project. 
+
+We will all work in one piece: `Op. 44 No. 1 - II`. We will provide annotations in the `.dez` file to be tested in the Dezrann interface.
+
+Nestor is going to provide a template for generating this annotation file.
+
+
 # January 24, 2020 
 Attendees Ich, Nestor, Sylvain, Jacob, Suzuka, Tim, Sam, Finn, and Laurent (Remotely)
 

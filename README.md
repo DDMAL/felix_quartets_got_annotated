@@ -53,6 +53,17 @@ The dataset contains encodings and annotations for the following pieces:
   3. Cappricio (Andante con moto)
   4. Fugue (A tempo ordinario)
 
+## Getting latest MusicXML files
+If you are only interested in getting the latest revised encodings you can simply run the following on a `bash` terminal:
+
+```
+chmod +x get_latest_files.sh
+./get_latest_files.sh
+```
+
+Now, all the `MusicXML` files should appear in the `latest_files` folder.
+
+
 ## Workflow for encoding
 
 We started by passing a set of public-domain scores through commercial OMR software to get an initial MusicXML file of the scores.

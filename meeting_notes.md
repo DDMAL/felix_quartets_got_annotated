@@ -1,3 +1,15 @@
+# March 06, 2020
+
+- Nestor's key algorithm: evaluation thru 24-row matrix, taking difference between two key matrices
+
+- Tim's pattern discovery algs: find (say) 10 top-ranked patterns between two versions of the input, compare them and their properties directly (if possible)
+
+- For raw differences between corrected / uncorrected - alex's tool, if it's working. Nestor's method from encoding matter if not.
+
+- for those of us with algorithms: need to focus on getting results that are comparable ASAP! the rest can begin writing as things are assigned
+
+
+
 # January 31, 2020
 Attendees: Ich, Finn, Sylvain, Jacob, Tim, Yaolong, Nestor, and Laurent (Remotely)
 

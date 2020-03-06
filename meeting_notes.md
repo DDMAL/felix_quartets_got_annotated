@@ -1,5 +1,7 @@
 # March 06, 2020
 
+In attendance: Finn, Sylvain, Jacob, Tim, Yaolong, Nestor, Suzuka
+
 - Nestor's key algorithm: evaluation thru 24-row matrix, taking difference between two key matrices
 
 - Tim's pattern discovery algs: find (say) 10 top-ranked patterns between two versions of the input, compare them and their properties directly (if possible)

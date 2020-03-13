@@ -3,7 +3,7 @@ Next steps:
 
 - Finn is reviewing that the peer-reviewed files, the ones on `04_revised_correction` folder of each quartet, attach to the agreed-and-revised guidelines in our [spreadsheet](https://docs.google.com/spreadsheets/d/1I97esez5-ObIIOPfARn7O739Vh1QI1o1kRarzwlAedw/edit#gid=1141092324)
 
-- This means the following for everybody else: **Revise the movements you peer-reviewed  for the third stage as soon as possible (before next week)**. The only thing you need to do is check that they meet the criteria we agreed-and-revised in the spreadsheet.
+- This means the following for everybody else: **Revise the movements you peer-reviewed  for the third stage as soon as possible (before this Sunday)**. The only thing you need to do is check that they meet the criteria we agreed-and-revised in the spreadsheet.
 
 - Laurent is completing the missing files in the folder `03_omr_correction` of each quartet, through revisiting the version control history of the repository.
 

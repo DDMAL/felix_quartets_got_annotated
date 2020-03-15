@@ -5,7 +5,7 @@
     <creator type="poet">Audnute. _ =60.</creator>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2020-02-12</encoding-date>
+      <encoding-date>2020-03-14</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -406,6 +406,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="263.94" default-y="15.00">
         <pitch>
@@ -416,9 +419,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <notations>
-          <slur type="start" number="1"/>
-          </notations>
         </note>
       <note default-x="365.36" default-y="10.00">
         <pitch>
@@ -430,9 +430,6 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
-        <notations>
-          <slur type="stop" number="1"/>
-          </notations>
         </note>
       <note default-x="412.26" default-y="-5.00">
         <pitch>
@@ -444,6 +441,9 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       </measure>
     <measure number="10" width="411.98">
@@ -552,6 +552,9 @@
         <voice>1</voice>
         <type>half</type>
         <stem>down</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="263.89" default-y="0.00">
         <pitch>
@@ -564,9 +567,6 @@
         <dot/>
         <accidental>natural</accidental>
         <stem>down</stem>
-        <notations>
-          <slur type="start" number="1"/>
-          </notations>
         </note>
       <note default-x="407.87" default-y="-15.00">
         <pitch>
@@ -721,6 +721,9 @@
         <stem>down</stem>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="363.11" default-y="0.00">
@@ -735,6 +738,9 @@
         <stem>down</stem>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -1254,6 +1260,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="320.06" default-y="-10.00">
@@ -1266,6 +1275,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="366.04" default-y="-5.00">
         <pitch>
@@ -1279,6 +1293,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -1423,6 +1440,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="289.22" default-y="-45.00">
@@ -1435,6 +1455,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="329.58" default-y="-40.00">
         <pitch>
@@ -1448,6 +1473,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -1513,6 +1541,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note>
         <rest/>
@@ -1560,6 +1593,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       </measure>
     <measure number="30" width="389.92">
@@ -2099,6 +2137,9 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="111.94" default-y="0.00">
         <pitch>
@@ -2186,6 +2227,9 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="297.85" default-y="5.00">
         <pitch>
@@ -2199,6 +2243,9 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="324.87" default-y="5.00">
         <pitch>
@@ -2388,6 +2435,9 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="216.30" default-y="-30.00">
         <pitch>
@@ -2742,6 +2792,11 @@
         <stem>down</stem>
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="213.40" default-y="30.00">
         <pitch>
@@ -2754,6 +2809,11 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="239.37" default-y="45.00">
         <pitch>
@@ -2809,6 +2869,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="121.33" default-y="-35.00">
@@ -2824,6 +2887,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.66" default-y="-25.00">
@@ -2869,6 +2935,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="257.17" default-y="-35.00">
@@ -2884,6 +2953,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -2940,6 +3012,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="169.14" default-y="-55.00">
@@ -2954,6 +3029,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="202.28" default-y="-60.00">
@@ -2966,6 +3044,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="235.43" default-y="-60.00">
         <pitch>
@@ -2979,6 +3062,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.57" default-y="-60.00">
@@ -2991,6 +3077,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="301.71" default-y="-60.00">
         <pitch>
@@ -3004,6 +3095,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -3070,6 +3164,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="123.89" default-y="-10.00">
         <pitch>
@@ -3083,6 +3182,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.97" default-y="-10.00">
@@ -3152,6 +3254,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="105.94" default-y="-20.00">
@@ -3166,6 +3271,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="134.54" default-y="-25.00">
@@ -3178,6 +3286,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="173.67" default-y="-25.00">
         <pitch>
@@ -3191,6 +3304,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="211.79" default-y="-25.00">
@@ -3203,6 +3319,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="242.87" default-y="-25.00">
         <pitch>
@@ -3216,6 +3337,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -5587,6 +5711,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="384.87" default-y="-30.00">
@@ -5599,6 +5726,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="435.23" default-y="-25.00">
         <pitch>
@@ -5612,6 +5744,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -5639,6 +5774,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="110.98" default-y="-45.00">
@@ -5651,6 +5789,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="160.47" default-y="-45.00">
         <pitch>
@@ -5664,6 +5807,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="209.95" default-y="-45.00">
@@ -5765,6 +5911,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="302.12" default-y="-65.00">
@@ -5777,6 +5926,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="350.48" default-y="-60.00">
         <pitch>
@@ -5790,6 +5944,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -5845,6 +6002,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note>
         <rest/>
@@ -5891,6 +6053,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       </measure>
     <measure number="62" width="338.75">
@@ -5947,6 +6114,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="211.64" default-y="-15.00">
         <pitch>
@@ -6800,6 +6972,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="360.02" default-y="-20.00">
         <pitch>
@@ -6813,6 +6990,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -6859,6 +7039,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="121.43" default-y="-20.00">
@@ -6873,6 +7056,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="159.57" default-y="-20.00">
@@ -6917,6 +7103,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.06" default-y="-40.00">
@@ -6931,6 +7120,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -6958,6 +7150,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="84.91" default-y="-45.00">
@@ -6970,6 +7165,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="121.36" default-y="-45.00">
         <pitch>
@@ -6983,6 +7183,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="157.82" default-y="-45.00">
@@ -7046,6 +7249,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="285.40" default-y="5.00">
         <pitch>
@@ -7059,6 +7267,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -7165,6 +7376,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="88.86" default-y="-10.00">
@@ -7177,6 +7391,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="127.18" default-y="-15.00">
         <pitch>
@@ -7192,6 +7411,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="165.51" default-y="-10.00">
@@ -7206,6 +7428,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="203.84" default-y="-30.00">
@@ -7218,6 +7443,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="242.17" default-y="-15.00">
         <pitch>
@@ -7230,6 +7460,11 @@
         <accidental>natural</accidental>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="280.50" default-y="-35.00">
         <pitch>
@@ -7244,6 +7479,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -7501,6 +7739,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="114.05" default-y="0.00">
         <pitch>
@@ -7512,6 +7753,9 @@
         <type>quarter</type>
         <accidental>natural</accidental>
         <stem>down</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="204.75" default-y="-5.00">
         <pitch>
@@ -8717,6 +8961,9 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="39.36" default-y="-135.00">
         <pitch>
@@ -8803,6 +9050,9 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="217.68" default-y="-125.00">
         <pitch>
@@ -8816,6 +9066,9 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="241.73" default-y="-130.00">
         <pitch>
@@ -8905,6 +9158,9 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       </measure>
     <measure number="5" width="435.14">
@@ -9394,7 +9650,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>16th</type>
-        <stem>down</stem>
+        <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
         </note>
@@ -9407,7 +9663,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>16th</type>
-        <stem>down</stem>
+        <stem>up</stem>
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
@@ -9419,7 +9675,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>16th</type>
-        <stem>down</stem>
+        <stem>up</stem>
         <beam number="1">continue</beam>
         <beam number="2">continue</beam>
         </note>
@@ -9431,7 +9687,7 @@
         <duration>3</duration>
         <voice>1</voice>
         <type>16th</type>
-        <stem>down</stem>
+        <stem>up</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
         <notations>
@@ -11255,6 +11511,9 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="36.05" default-y="-120.00">
         <pitch>
@@ -11340,6 +11599,9 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="201.90" default-y="-150.00">
         <pitch>
@@ -11352,6 +11614,9 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="225.59" default-y="-140.00">
         <pitch>
@@ -11438,6 +11703,9 @@
         <stem>up</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       </measure>
     <measure number="17" width="462.85">
@@ -12553,6 +12821,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="320.06" default-y="-115.00">
@@ -12565,6 +12836,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="366.04" default-y="-110.00">
         <pitch>
@@ -12579,6 +12855,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -12728,6 +13007,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="289.22" default-y="-150.00">
@@ -12740,6 +13022,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="329.58" default-y="-145.00">
         <pitch>
@@ -12754,6 +13041,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -13446,6 +13736,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="121.33" default-y="-140.00">
@@ -13460,6 +13753,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.66" default-y="-140.00">
@@ -13534,6 +13830,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="169.14" default-y="-160.00">
@@ -13548,6 +13847,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note>
@@ -13568,6 +13870,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.57" default-y="-145.00">
@@ -13581,6 +13886,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="301.71" default-y="-135.00">
         <pitch>
@@ -13594,6 +13904,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -13627,6 +13940,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="123.89" default-y="-95.00">
@@ -13642,6 +13958,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.97" default-y="-85.00">
@@ -13687,6 +14006,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="247.61" default-y="-105.00">
@@ -13701,6 +14023,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -13718,6 +14043,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="57.53" default-y="-110.00">
@@ -13749,6 +14077,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="105.94" default-y="-115.00">
@@ -13763,6 +14094,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="134.54" default-y="-130.00">
@@ -13776,6 +14110,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <backup>
         <duration>4</duration>
@@ -13793,6 +14132,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="188.33" default-y="-125.00">
@@ -13805,6 +14147,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <forward>
         <duration>4</duration>
@@ -13821,6 +14168,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -16199,6 +16549,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="384.87" default-y="-135.00">
         <pitch>
@@ -16210,6 +16565,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="435.23" default-y="-130.00">
         <pitch>
@@ -16224,6 +16584,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -16251,6 +16614,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="110.98" default-y="-150.00">
@@ -16263,6 +16629,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="160.47" default-y="-150.00">
         <pitch>
@@ -16276,6 +16647,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="209.95" default-y="-150.00">
@@ -16383,6 +16757,11 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note>
         <rest/>
@@ -16486,6 +16865,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="274.39" default-y="-120.00">
@@ -16498,6 +16880,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="305.77" default-y="-125.00">
         <pitch>
@@ -16511,6 +16898,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -16920,6 +17310,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="360.02" default-y="-125.00">
@@ -16934,6 +17327,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -16982,6 +17378,9 @@
         <beam number="1">continue</beam>
         <notations>
           <tied type="start"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="121.43" default-y="-140.00">
@@ -16997,6 +17396,9 @@
         <beam number="1">end</beam>
         <notations>
           <tied type="stop"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="159.57" default-y="-145.00">
@@ -17045,6 +17447,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.06" default-y="-160.00">
@@ -17059,6 +17464,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -17088,6 +17496,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="84.91" default-y="-155.00">
@@ -17100,6 +17511,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="121.36" default-y="-145.00">
         <pitch>
@@ -17113,6 +17529,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="157.82" default-y="-150.00">
@@ -17143,6 +17562,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="285.40" default-y="-115.00">
@@ -17157,6 +17579,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -17203,6 +17628,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="119.36" default-y="-115.00">
@@ -17217,6 +17645,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.90" default-y="-115.00">
@@ -17262,6 +17693,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="278.93" default-y="-115.00">
@@ -17277,6 +17711,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -17301,6 +17738,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="88.86" default-y="-115.00">
@@ -17314,6 +17754,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="127.18" default-y="-115.00">
         <pitch>
@@ -17328,6 +17773,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="165.51" default-y="-120.00">
@@ -17342,6 +17790,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="203.84" default-y="-125.00">
@@ -17354,6 +17805,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="242.17" default-y="-145.00">
         <pitch>
@@ -17365,6 +17821,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="280.50" default-y="-145.00">
         <pitch>
@@ -17378,6 +17839,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -20562,6 +21026,9 @@
         <stem>up</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="39.38" default-y="-225.00">
         <pitch>
@@ -20609,6 +21076,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>down</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note>
         <rest/>
@@ -20641,6 +21111,9 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="115.57" default-y="-210.00">
         <pitch>
@@ -20730,6 +21203,9 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="269.61" default-y="-230.00">
         <pitch>
@@ -20743,6 +21219,9 @@
         <stem>down</stem>
         <beam number="1">begin</beam>
         <beam number="2">begin</beam>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="291.62" default-y="-210.00">
         <pitch>
@@ -20831,6 +21310,9 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       </measure>
     <measure number="22" width="385.93">
@@ -21031,6 +21513,7 @@
         <beam number="2">begin</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="98.00" default-y="-185.00">
@@ -21119,6 +21602,9 @@
         <stem>down</stem>
         <beam number="1">end</beam>
         <beam number="2">end</beam>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="286.84" default-y="-180.00">
         <pitch>
@@ -22338,6 +22824,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="276.87" default-y="-225.00">
@@ -22364,6 +22853,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="296.10" default-y="-225.00">
         <chord/>
@@ -22388,6 +22882,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="346.07" default-y="-225.00">
@@ -22429,6 +22926,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="121.33" default-y="-205.00">
@@ -22443,6 +22943,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.66" default-y="-210.00">
@@ -22490,6 +22993,9 @@
         <notations>
           <slur type="start" number="1"/>
           <slur type="start" number="2"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="257.17" default-y="-240.00">
@@ -22505,6 +23011,9 @@
         <notations>
           <slur type="stop" number="1"/>
           <slur type="stop" number="2"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -22557,6 +23066,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="169.14" default-y="-240.00">
@@ -22571,6 +23083,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="202.28" default-y="-230.00">
@@ -22584,6 +23099,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="235.43" default-y="-230.00">
         <pitch>
@@ -22598,6 +23118,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.57" default-y="-235.00">
@@ -22610,6 +23133,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="301.71" default-y="-225.00">
         <pitch>
@@ -22623,6 +23151,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -22656,6 +23187,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="123.89" default-y="-185.00">
@@ -22670,6 +23204,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.97" default-y="-175.00">
@@ -22716,6 +23253,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="247.61" default-y="-195.00">
@@ -22731,6 +23271,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -22781,6 +23324,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="105.94" default-y="-205.00">
@@ -22795,6 +23341,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="134.54" default-y="-205.00">
@@ -22807,6 +23356,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="173.67" default-y="-205.00">
         <pitch>
@@ -22822,6 +23376,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="211.79" default-y="-200.00">
@@ -22834,6 +23391,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="242.87" default-y="-210.00">
         <pitch>
@@ -22849,6 +23411,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -23928,7 +24493,7 @@
         <dot/>
         <stem>up</stem>
         <notations>
-          <slur type="start" placement="above" number="1"/>
+          <slur type="start" number="1"/>
           </notations>
         </note>
       <note default-x="205.49" default-y="-240.00">
@@ -25671,6 +26236,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="360.02" default-y="-190.00">
@@ -25685,6 +26253,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -25753,6 +26324,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.06" default-y="-220.00">
@@ -25767,6 +26341,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -25794,6 +26371,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="84.91" default-y="-210.00">
@@ -25806,6 +26386,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="121.36" default-y="-230.00">
         <pitch>
@@ -25820,6 +26405,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="157.82" default-y="-225.00">
@@ -25850,6 +26438,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="285.40" default-y="-190.00">
@@ -25864,6 +26455,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -25909,6 +26503,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="241.38" default-y="-190.00">
@@ -25921,6 +26518,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="278.93" default-y="-190.00">
         <pitch>
@@ -25934,6 +26536,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -25956,6 +26561,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="88.86" default-y="-190.00">
@@ -25968,6 +26576,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="127.18" default-y="-190.00">
         <pitch>
@@ -25981,6 +26594,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="165.51" default-y="-195.00">
@@ -25996,6 +26612,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="203.84" default-y="-190.00">
@@ -26008,6 +26627,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="242.17" default-y="-200.00">
         <pitch>
@@ -26019,6 +26643,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="280.50" default-y="-195.00">
         <pitch>
@@ -26033,6 +26662,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -27880,6 +28512,9 @@
         <type>half</type>
         <accidental>sharp</accidental>
         <stem>up</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="208.17" default-y="-310.00">
         <pitch>
@@ -27902,6 +28537,9 @@
         <voice>1</voice>
         <type>eighth</type>
         <stem>up</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       </measure>
     <measure number="13" width="456.25">
@@ -28026,6 +28664,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>up</stem>
+        <notations>
+          <slur type="start" number="1"/>
+          </notations>
         </note>
       <note default-x="166.85" default-y="-310.00">
         <pitch>
@@ -28046,6 +28687,9 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
+        <notations>
+          <slur type="stop" number="1"/>
+          </notations>
         </note>
       <note default-x="363.11" default-y="-340.00">
         <pitch>
@@ -29097,6 +29741,11 @@
         <accidental>sharp</accidental>
         <stem>up</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note>
         <rest/>
@@ -29143,6 +29792,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       </measure>
     <measure number="30" width="389.92">
@@ -29650,6 +30304,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="326.85" default-y="-320.00">
@@ -29662,6 +30319,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="376.83" default-y="-320.00">
         <pitch>
@@ -29675,6 +30337,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -29733,6 +30398,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="235.43" default-y="-320.00">
         <pitch>
@@ -29746,6 +30416,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.57" default-y="-320.00">
@@ -29758,6 +30431,11 @@
         <type>eighth</type>
         <stem>up</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="301.71" default-y="-320.00">
         <pitch>
@@ -29771,6 +30449,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -29798,6 +30479,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="247.61" default-y="-305.00">
@@ -29812,6 +30496,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -29873,6 +30560,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="134.54" default-y="-285.00">
@@ -29885,6 +30575,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">begin</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="173.67" default-y="-285.00">
         <pitch>
@@ -29898,6 +30593,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="211.79" default-y="-285.00">
@@ -29910,6 +30608,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="242.87" default-y="-285.00">
         <pitch>
@@ -29923,6 +30626,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -30831,6 +31537,11 @@
         <accidental>sharp</accidental>
         <stem>down</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note>
         <rest/>
@@ -30877,6 +31588,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       </measure>
     <measure number="62" width="338.75">
@@ -30930,6 +31646,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">end</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="211.64" default-y="-300.00">
         <pitch>
@@ -31394,6 +32115,9 @@
         <beam number="1">begin</beam>
         <notations>
           <tied type="start"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="121.43" default-y="-290.00">
@@ -31409,6 +32133,9 @@
         <beam number="1">end</beam>
         <notations>
           <tied type="stop"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="159.57" default-y="-285.00">
@@ -31453,6 +32180,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="268.06" default-y="-310.00">
@@ -31469,6 +32199,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -31496,6 +32229,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="84.91" default-y="-305.00">
@@ -31508,6 +32244,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="121.36" default-y="-305.00">
         <pitch>
@@ -31521,6 +32262,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="157.82" default-y="-290.00">
@@ -31552,6 +32296,9 @@
         <beam number="1">begin</beam>
         <notations>
           <tied type="start"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="285.40" default-y="-255.00">
@@ -31567,6 +32314,9 @@
         <beam number="1">end</beam>
         <notations>
           <tied type="stop"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -31615,6 +32365,9 @@
         <beam number="1">continue</beam>
         <notations>
           <tied type="start"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="119.36" default-y="-270.00">
@@ -31630,6 +32383,9 @@
         <beam number="1">end</beam>
         <notations>
           <tied type="stop"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="156.90" default-y="-270.00">
@@ -31657,6 +32413,9 @@
         <beam number="1">continue</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="241.38" default-y="-270.00">
@@ -31669,6 +32428,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="278.93" default-y="-265.00">
         <pitch>
@@ -31682,6 +32446,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>
@@ -31706,6 +32473,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="88.86" default-y="-270.00">
@@ -31718,6 +32488,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="127.18" default-y="-265.00">
         <pitch>
@@ -31731,6 +32506,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="165.51" default-y="-275.00">
@@ -31746,6 +32524,9 @@
         <beam number="1">begin</beam>
         <notations>
           <slur type="start" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       <note default-x="203.84" default-y="-280.00">
@@ -31758,6 +32539,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="242.17" default-y="-285.00">
         <pitch>
@@ -31769,6 +32555,11 @@
         <type>eighth</type>
         <stem>down</stem>
         <beam number="1">continue</beam>
+        <notations>
+          <articulations>
+            <staccato/>
+            </articulations>
+          </notations>
         </note>
       <note default-x="280.50" default-y="-305.00">
         <pitch>
@@ -31784,6 +32575,9 @@
         <beam number="1">end</beam>
         <notations>
           <slur type="stop" number="1"/>
+          <articulations>
+            <staccato/>
+            </articulations>
           </notations>
         </note>
       </measure>

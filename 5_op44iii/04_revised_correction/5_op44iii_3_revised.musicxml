@@ -4,7 +4,7 @@
   <identification>
     <encoding>
       <software>MuseScore 2.3.2</software>
-      <encoding-date>2020-02-02</encoding-date>
+      <encoding-date>2020-03-17</encoding-date>
       <supports element="accidental" type="yes"/>
       <supports element="beam" type="yes"/>
       <supports element="print" attribute="new-page" type="yes" value="yes"/>
@@ -116,6 +116,11 @@
           <line>2</line>
           </clef>
         </attributes>
+      <direction placement="above">
+        <direction-type>
+          <words default-y="40.00">Adagio non troppo</words>
+          </direction-type>
+        </direction>
       <note>
         <rest/>
         <duration>12</duration>
@@ -4518,6 +4523,9 @@
         <stem>up</stem>
         <notations>
           <slur type="stop" number="1"/>
+          <ornaments>
+            <trill-mark/>
+            </ornaments>
           </notations>
         </note>
       </measure>
@@ -15475,10 +15483,9 @@
           <slur type="start" placement="above" number="1"/>
           </notations>
         </note>
-      <note default-x="623.40" default-y="-145.00">
+      <note default-x="623.40" default-y="-140.00">
         <pitch>
-          <step>E</step>
-          <alter>-1</alter>
+          <step>F</step>
           <octave>4</octave>
           </pitch>
         <duration>4</duration>
@@ -16391,6 +16398,9 @@
         <stem>up</stem>
         <notations>
           <slur type="stop" number="1"/>
+          <ornaments>
+            <trill-mark/>
+            </ornaments>
           </notations>
         </note>
       </measure>
@@ -18381,9 +18391,6 @@
         <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
-        <notations>
-          <slur type="start" placement="above" number="1"/>
-          </notations>
         </note>
       <note default-x="205.38" default-y="-110.00">
         <chord/>
@@ -18409,15 +18416,71 @@
         <type>quarter</type>
         <stem>down</stem>
         </note>
+      <note default-x="12.00" default-y="-95.00">
+        <chord/>
+        <pitch>
+          <step>A</step>
+          <alter>-1</alter>
+          <octave>5</octave>
+          </pitch>
+        <duration>4</duration>
+        <voice>1</voice>
+        <type>quarter</type>
+        <stem>down</stem>
+        </note>
       <note default-x="112.50" default-y="-125.00">
         <pitch>
           <step>B</step>
           <alter>-1</alter>
           <octave>4</octave>
           </pitch>
-        <duration>4</duration>
+        <duration>2</duration>
+        <tie type="start"/>
         <voice>1</voice>
-        <type>quarter</type>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">begin</beam>
+        <notations>
+          <tied type="start"/>
+          </notations>
+        </note>
+      <note default-x="112.50" default-y="-100.00">
+        <chord/>
+        <pitch>
+          <step>G</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        </note>
+      <note default-x="161.49" default-y="-125.00">
+        <pitch>
+          <step>B</step>
+          <alter>-1</alter>
+          <octave>4</octave>
+          </pitch>
+        <duration>2</duration>
+        <tie type="stop"/>
+        <voice>1</voice>
+        <type>eighth</type>
+        <stem>down</stem>
+        <beam number="1">end</beam>
+        <notations>
+          <tied type="stop"/>
+          </notations>
+        </note>
+      <note default-x="161.49" default-y="-110.00">
+        <chord/>
+        <pitch>
+          <step>E</step>
+          <octave>5</octave>
+          </pitch>
+        <duration>2</duration>
+        <voice>1</voice>
+        <type>eighth</type>
+        <accidental>natural</accidental>
         <stem>down</stem>
         </note>
       <note default-x="210.47" default-y="-120.00">
@@ -18430,59 +18493,14 @@
         <type>quarter</type>
         <stem>down</stem>
         </note>
-      <backup>
-        <duration>12</duration>
-        </backup>
-      <note default-x="12.00" default-y="-95.00">
-        <pitch>
-          <step>A</step>
-          <alter>-1</alter>
-          <octave>5</octave>
-          </pitch>
-        <duration>4</duration>
-        <voice>2</voice>
-        <type>quarter</type>
-        <stem>down</stem>
-        <notations>
-          <slur type="stop" number="1"/>
-          </notations>
-        </note>
-      <note default-x="112.50" default-y="-100.00">
-        <pitch>
-          <step>G</step>
-          <octave>5</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-        <stem>up</stem>
-        <beam number="1">begin</beam>
-        <notations>
-          <slur type="start" placement="above" number="1"/>
-          </notations>
-        </note>
-      <note default-x="161.49" default-y="-110.00">
-        <pitch>
-          <step>E</step>
-          <octave>5</octave>
-          </pitch>
-        <duration>2</duration>
-        <voice>2</voice>
-        <type>eighth</type>
-        <accidental>natural</accidental>
-        <stem>up</stem>
-        <beam number="1">end</beam>
-        <notations>
-          <slur type="stop" number="1"/>
-          </notations>
-        </note>
       <note default-x="210.47" default-y="-105.00">
+        <chord/>
         <pitch>
           <step>F</step>
           <octave>5</octave>
           </pitch>
         <duration>4</duration>
-        <voice>2</voice>
+        <voice>1</voice>
         <type>quarter</type>
         <stem>down</stem>
         </note>

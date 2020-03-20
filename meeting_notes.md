@@ -1,3 +1,25 @@
+# March 20, 2020
+
+Attendees: Finn, Sylvain, Laurent, Tim, Yaolong, Sam, Ich, Suzuka, Nestor
+
+Meeting happening through Jitsi.
+
+Discussing the current state of the comparisons.
+
+Laurent has put the `musicxml` files from the corrected OMR on the GitHub repository. That means we have every musicxml for OMR corrections.
+
+Finn has reviewed the peer-reviewed files (fourth folder). They also standardized the layout of the pages so that they are all equivalent. There were minor corrections (slurs and other attributes). For the most part, everyone did a good job. Those files are going to the repository soon.
+
+Suzuka is working in the lit review and she plans to add some text to the Overleaf project soon. A few other papers were proposed as possible sources for the lit review (e.g., Napoles Lopez et al. 2018; Devaney et al., 2017).
+
+Yaolong is able to run his algorithm (music21) on the peer-reviewed versions for the most part.
+
+Nestor has the output of his algorithm in the peer-reviewed versions. Trying to run the workflow on all the OMR corrections now.
+
+Tim tried to run his computations in ComputeCanada.
+
+In general, people trying to get their analyses and text contributions by next week.
+
 # March 13, 2020
 Next steps:
 

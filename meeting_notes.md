@@ -1,3 +1,29 @@
+# Guidelines for the "punchline" exercise. April 24, 2020
+> by Néstor Nápoles López
+
+For people who have no idea about what this is about. Ich proposed that, in order to write the paper given our time constraints, it would be best if we agree on what is the **conclusion** of the paper, and we figure everything back from there.
+
+I proposed that we can all propose a **punchline** statement with the most striking conclusion of this project, from the perspective of each of us. It is required in ISMIR submissions to provide a one-line summary of the paper, so we have to (collectively) write and agree on a *punchline* anyway. How about we get that out of the way now?
+
+Since I proposed this exercise, I take the liberty of setting the rules:
+
+- Feel free of proposing **your** punchline statement. We want to hear whatever YOU think is the most important conclusion of this work, even if it is controversial and opposes what others may think. This will ensure that a diversity of ideas are taken into account (e.g., I know that I am biased toward MIR and encoding stuff. Show me the aspects of this work that you are seeing and I am not seeing).
+- When we say one sentence, it means **one** sentence. The space limit in the ISMIR submission system is **125 characters** (~25 words). Make those 125 characters count! Also, that means you have less work to do (maybe).
+- The punchline should **stand by itself**. It assumes no familiarity with this work and/or paper. 
+  - A bad punchline example (needs context): 
+    - "*I guess it was a good thing that we went and re-do that spreadsheet one more time after the correction, it made everything better afterward.*"
+  - A good punchline (stands by itself):
+    - "*When curating a corpus of music, multi-disciplinarity is key for ensuring high-quality data. MIR scientists need more collaboration with music theorists and musicologists.*"
+- Write your punchline in slack. Enclose it in quotes so that we know that that is your punchline (e.g., "This is a punchline.").
+- One punchline per co-author of the paper is recommended. In case of a burning desire to write down 2 **different and independent** conclusions, a maximum of 2 punchlines per co-author is allowed. 
+
+As suggested by Sylvain, once we collect the punchlines, we will vote on the punchline that best represents the collective thoughts of the group. The chosen punchline sets the tonic and mode of the paper. We write our notes around that.
+
+I propose that the deadline for punchlines should be **April 29 (Wednesday) 23:59:59, Anywhere-on-Earth (AoE) timezone**. We vote on Thursday throughout the day. By next Friday's meeting, we have a direction.
+
+Feel free to exercise rebuttal of these guidelines.
+
+
 # March 20, 2020
 
 Attendees: Finn, Sylvain, Laurent, Tim, Yaolong, Sam, Ich, Suzuka, Nestor

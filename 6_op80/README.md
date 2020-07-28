@@ -1,3 +1,7 @@
+This file does not contain a `C0` or `C1` stages because it was corrected from an already transcribed MusicXML file.
+
+This file was also not part of the experiments described in the paper.
+
 ```
 ==== General informations ====
 
